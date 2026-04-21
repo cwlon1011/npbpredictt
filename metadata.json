@@ -1,0 +1,6 @@
+{
+  "name": "NPB Predictor",
+  "description": "日本職棒 (NPB) 勝負與大小分預測系統，結合投手、打者與球場詳細數據與 AI 分析。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
